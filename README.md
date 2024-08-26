@@ -43,4 +43,4 @@ Las contribuciones son bienvenidas. Por favor, abre un "issue" o un "pull reques
 
 ## Contacto
 
-Para cualquier pregunta, por favor contacta a [d.pastenc@udd.cl](mailto:d.pastenc@udd.cl).
+Para cualquier pregunta, por favor contacta a 
